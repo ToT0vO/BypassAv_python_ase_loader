@@ -26,6 +26,6 @@ pyinstaller -F -w -i 98B8596E39.ico python_ase.py
 
 本项目修改自
 
-[https://github.com/anx0ing/Python_BypassAV_demo]: 
+https://github.com/anx0ing/Python_BypassAV_demo
 
 感谢anx0ing师傅
